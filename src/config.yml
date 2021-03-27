@@ -1,0 +1,8 @@
+sql:
+  toggle: true
+  table_name: Location
+  host: localhost
+  port: 3306
+  name: MySQL
+  user: admin
+  password: admin

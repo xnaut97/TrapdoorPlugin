@@ -1,0 +1,5 @@
+name: TrapDoor
+version: EARLY-ACCESS
+main: net.tez.trapdoor.TrapDoor
+author: Tez
+api-version: 1.13
